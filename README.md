@@ -1,4 +1,4 @@
-### TCP/IP Windows Socket Programming
+# TCP/IP Windows Socket Programming
 
 **CH01** 네트워크와 소켓프로그래밍<br>
 **CH02** 윈도우 소켓
@@ -15,3 +15,10 @@
 **CH05** 데이터 전송하기
 - [TCPServer_Fixed.cpp](https://github.com/waeandway/NetworkProgramming/blob/master/CH05/TCPServer_Fixed.cpp)
 - [TCPClient_Fixed.cpp](https://github.com/waeandway/NetworkProgramming/blob/master/CH05/TCPClient_Fixed.cpp)
+
+---
+
+**CH06** 멀티 스레드
+- [EXThread1.cpp](https://github.com/waeandway/NetworkProgramming/blob/master/CH06/ExThread1.cpp)
+- [EXThread2.cpp](https://github.com/waeandway/NetworkProgramming/blob/master/CH06/ExThread2.cpp)
+- [EXThread3.cpp](https://github.com/waeandway/NetworkProgramming/blob/master/CH06/ExThread3.cpp)
