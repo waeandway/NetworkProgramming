@@ -34,3 +34,5 @@
 
 **CH09** GUI 소켓 응용 프로그램
 - [WinApp.cpp](https://github.com/waeandway/NetworkProgramming/blob/master/CH09/WinApp.cpp)
+- [GUITCPClient.cpp](https://github.com/waeandway/NetworkProgramming/blob/master/CH09/GUITCPClient.cpp)
+- [GUITCPServer.cpp](https://github.com/waeandway/NetworkProgramming/blob/master/CH09/GUITCPServer.cpp)
